@@ -1,0 +1,974 @@
+[
+  {
+    "imageUrl": "",
+    "question": "Câu 1: Theo lời khuyên của chuyên gia, bản kế hoạch kinh doanh nên phân tích bao nhiêu đối thủ cạnh tranh là phù hợp?",
+    "answers": ["A. 4", "B. 6", "C. 5", "D. 3"],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 2: … Là tài liệu phản ánh tổng quát tình hình và kết quả kinh doanh trong một kỳ hoạt động của doanh nghiệp: báo cáo này liệt kê rõ doanh thu, chi phí, lãi/lỗ.",
+    "answers": [
+      "A. Bảng cân đối kế toán (Balance Sheet)",
+      "B. Báo cáo lưu chuyển tiền tệ (Cash flow statement)",
+      "C. Báo cáo kết quả kinh doanh (Income Statement)",
+      "D. Báo cáo kết quả bán hàng"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 3: Đâu là loại hình mối quan hệ khách hàng chưa phổ biến tại việt nam?",
+    "answers": [
+      "A. Quan hệ khách hàng dựa trên người dùng xây dựng hệ sinh thái tương tác cộng đồng trên nền tảng đa diện của doanh nghiệp",
+      "B. Quan hệ khách hàng qua tương tác trả lời tự động",
+      "C. Quan hệ khách hàng dựa trên tương tác trực tiếp cá nhân",
+      "D. Quan hệ khách hàng qua email"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 4: Mô tả chính xác nhất về “xác thực ý tưởng” là gì?",
+    "answers": [
+      "A. Bạn hỏi 1 vài người bạn xem họ nghĩ gì về ý tưởng của bạn.",
+      "B. Bạn ra mắt sản phẩm của mình và chạy 1 chiến dịch quảng cáo rầm rộ.",
+      "C. Bạn thử nghiệm ý tưởng của mình để xem có bao nhiêu người quan tâm.",
+      "D. Bạn nói với người khác ý tưởng của bạn tuyệt vời như thế nào và họ đồng ý."
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 5: Cho biết lợi ích khi sử dụng Google Alert trong nghiên cứu khách hàng hoặc ngành hàng kinh doanh.",
+    "answers": [
+      "A. Theo dõi xu hướng người dùng",
+      "B. Theo dõi hoạt động tin tức của các đối tác lớn, đối tác tiềm năng",
+      "C. Cả A, B đều đúng",
+      "D. Cả A, B đều sai"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 6: Các yếu tố sau đây cần được mô tả trong phần sản phẩm/dịch vụ (Product/Service) của bản kế hoạch kinh doanh, ngoại trừ:",
+    "answers": [
+      "A. Đặc tính của sản phẩm/dịch vụ",
+      "B. Cách thức sản xuất/cung cấp sản phẩm/dịch vụ",
+      "C. Chiến lược truyền thông cho sản phẩm/dịch vụ",
+      "D. Kiểm soát chất lượng sản phẩm/dịch vụ"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 7: Xác định cấu phần (bôi đỏ) trong mô hình kinh doanh Canvas (Business Model Canvas)",
+    "answers": [
+      "A. Doanh thu",
+      "B. Khách hàng",
+      "C. Các kênh phân phối",
+      "D. Các mối quan hệ khách hàng"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 8: Phân tích đối thủ cạnh tranh cần phải phân tích những yếu tố gì?",
+    "answers": [
+      "A. Điểm mạnh và điểm yếu",
+      "B. Chính sách quản lý",
+      "C. Chiến lược giá",
+      "D. Tất cả câu trên đều đúng"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 9: Doanh nhân là người được hiểu như thế nào? ",
+    "answers": [
+      "A. Một người độc lập (không thuộc công ty)",
+      "B. Người người bắt đầu việc kinh doanh riêng của họ",
+      "C. Một người làm nghề tự do",
+      "D. Một nhân viên văn phòng"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 10: Bạn có thể tiếp cận vốn đầu tư mạo hiểm (Venture Capital) trong tình huống nào?",
+    "answers": [
+      "A. Mọi người đều có thể tiếp cận nó",
+      "B. Sẽ dễ dàng hơn nếu bạn liên hệ trực tiếp với các công ty Venture Capital",
+      "C. Doanh nghiệp của bạn phải có tiềm năng và thị trường rộng lớn",
+      "D. Bạn phải sống ở Mỹ"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 11: Doanh nhân có xu hướng hoạt động xã hội tương tự như tổ chức nào sau đây? ",
+    "answers": [
+      "A. Tổ chức từ thiện",
+      "B. Các tổ chức phi lợi nhuận",
+      "C. Người gây quỹ",
+      "D. Các nhà từ thiện"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 12: Những yếu tố cấu thành thuộc mô hình kinh doanh Canvas là gì? Lựa chọn TẤT CẢ các phương án đúng (3)",
+    "answers": [
+      "A. Giá trị cung cấp",
+      "B. Sơ đồ tổ chức",
+      "C. Các kênh phân phối",
+      "D. Các hoạt động chính"
+    ],
+    "correctAnswer": ["A", "C", "D"]
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 13: Để có thể xác thực ý tưởng kinh doanh của bạn thông qua phương pháp thử nghiệm giả tưởng. Website về sản phẩm giả tưởng của bạn phải tiếp cận được đối tượng khách hàng mục tiêu. Các công cụ giúp bạn tiếp cận nhóm khách hàng mục tiêu có thể thông qua? Lựa chọn TẤT CẢ các phương án đúng. ",
+    "answers": [
+      "A. Facebook Group",
+      "B. Diễn đàn SubReddits",
+      "C. Danh sách email(Mailing list)",
+      "D. Linkedln"
+    ],
+    "correctAnswer": ["A", "B", "C", "D"]
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 14: Bạn có thể định nghĩa nền kinh tế chia sẻ là như thế nào?",
+    "answers": [
+      "A. Cách rẻ nhất để mua những gì bạn cần",
+      "B. Cho đi những thứ bạn không dùng nữa",
+      "C. Kiếm tiền từ tài sản mà mọi người thường chia sẻ miễn phí hoặc chia sẻ với giá rẻ",
+      "D. Tất cả đều sai"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 15: Để xác định đối tượng khách hàng mục tiêu và mô tả được chi tiết đặc điểm khách hàng mục tiêu cần: ",
+    "answers": [
+      "A. Phân tích tính hấp dẫn của ngành hàng",
+      "B. Tìm kiếm các dữ liệu khách hàng có sẵn",
+      "C. Phân khúc khách hàng",
+      "D. Thực hiện cuộc nghiên cứu khảo sát khách hàng"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 16: Doanh nhân thường có kiểu tư duy như thế nào?",
+    "answers": [
+      "A. Bi quan và có khả năng xác định tương lai",
+      "B. Lạc quan và không có khả năng xác định tương lai",
+      "C. Lạc quan và có khả năng xác định tương lai",
+      "D. Bi quan và không có khả năng xác định tương lai"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 17: Đâu là nhận định đúng về phương pháp xác thực ý tưởng kinh doanh thông qua Khung khởi nghiệp tinh gọn (The lean startup framework)?",
+    "answers": [
+      "A. Quan điểm của khung khởi nghiệp tinh gọn là ngừng sản xuất những thứ mà mọi người không muốn mua",
+      "B. Khung khởi nghiệp tinh gọn giúp doanh nhân biết sớm hơn liệu mọi người có mua sản phẩm/dịch vụ hay không và sau đó tiết kiệm tài nguyên và tập trung vào việc thích ứng nhanh hơn",
+      "C. Khung khởi nghiệp tinh gọn hướng tới sản phẩm cuối cùng có thể chấp nhận một cách phổ biến và giúp doanh nhân hướng tới sản phẩm cuối cùng đó một cách sớm hơn",
+      "D. Tất cả các phương án đều đúng"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 18: Hầu hết các doanh nhân đều có cái mà chúng tôi gọi là “chấp nhận rủi ro”, vì một số lượng lớn các dự án khởi nghiệp thất bại. Nói một cách đại khái thành công bao nhiêu?",
+    "answers": ["A. 5%", "B. 10%", "C. 20%", "D. 15%"],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 19: Điều gì có thể được coi là một sự đổi mới về giá?",
+    "answers": [
+      "A. Cung cấp cùng một sản phẩm với giá cao hơn",
+      "B. Cung cấp cùng một sản phẩm với giá thấp hơn ",
+      "C. Cả hai đúng",
+      "D. Cả hai sai"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 20: Yếu tố tạo ra sự khác biệt độc đáo của một doanh nghiệp là ?",
+    "answers": [
+      "A. Hiệu suất tốt hơn",
+      "B. Hệ thống ưu việt hơn",
+      "C. Bền vững hơn",
+      "D. Cả 3 phương án trên"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 21: Nhà đầu tư kinh doanh trong doanh nghiệp với vai trò gì?",
+    "answers": [
+      "A. Cung cấp lời khuyên cho doanh nghiệp nhỏ",
+      "B. Để hỗ trợ doanh nhân mạo hiểm",
+      "C. Cung cấp vốn phát triển kinh doanh để đổi lấy cổ phần quyền sở hữu trong doanh nghiệp",
+      "D. Thành lập một doanh nghiệp để nhượng quyền thương mại"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 22: Điều đầu tiên một doanh nhân làm khi bắt đầu kinh doanh là gì?",
+    "answers": [
+      "A. Thu thập tài nguyên",
+      "B. Hỏi tất cả bạn bè",
+      "C. Thuê văn phòng",
+      "D. Nhận ra cơ hội"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 23: Điều nào sau đây KHÔNG được coi là đặc điểm của một Kế hoạch kinh doanh khởi nghiệp?",
+    "answers": [
+      "A. Khởi đầu và kết thúc rõ ràng",
+      "B. Mục tiêu được thiết lập",
+      "C. Chỉ sử dụng trong nội bộ",
+      "D. Nhiệm vụ phức tạp"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 24: Có nhiều loại thu thập khác nhau. Cổ tức được xem là loại thu thập nào?",
+    "answers": ["A. Tích cực", "B. Hoạt động", "C. Định kỳ", "D. Thụ động"],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 25: … là toàn bộ các khoản mà doanh nghiệp cần phải chi trả để có thể đạt được mục tiêu kinh doanh cuối cùng",
+    "answers": ["A. Chi phí", "B. Công nợ", "C. Doanh thu", "D. Lợi nhuận"],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 26: Các kênh phân phối tiêu biểu gồm: ",
+    "answers": [
+      "A. Đại lý truyền thống",
+      "B. Đến tận nơi hoặc trong cửa hàng",
+      "C. Phân phối thông qua Internet",
+      "D. Cả 3 phương án trên"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 27: Làm thế nào bạn có thể tạo ra một công việc kinh doanh phụ?",
+    "answers": [
+      "A. Nghiên cứu thị trường sâu để đưa ra sản phẩm có thể dành thị phần lớn.",
+      "B. Tạo ra thứ gì đó có giá trị mà có thể dễ dàng bán được",
+      "C. Dành tất cả thời gian và nỗ lực của bạn cho ý tưởng của bạn",
+      "D. Đưa ra một ý tưởng đầy tham vọng trong một thị trường mới "
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 28: Ý tưởng kinh doanh này sinh dựa trên việc nhận diện những giá trị phù hợp khi liên kết giữa sở thích, đam mê với kỹ năng, kinh nghiệm. Kỹ thuật này sinh ý tưởng kinh doanh này là gì?",
+    "answers": [
+      "A. Ý tưởng kinh doanh dựa trên việc tạo sự phù hợp (The Fit generator)",
+      "B. Ý tưởng kinh doanh dựa trên lợi ích (Benefit based business)",
+      "C. Tưởng tượng về tương lai (Imagine the future)",
+      "D. Ý tưởng kinh doanh dựa trên vấn đề (Problem-based business ideas) "
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 29: Vai trò của các đối tác chính?",
+    "answers": [
+      "A. Mạng lưới mang lại hiệu quả kinh doanh ",
+      "B. Tối ưu hóa chi phí",
+      "C. Chia sẻ hạ tầng",
+      "D. Cả 3 phương án trên"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 30: Ý tưởng kinh doanh này sinh dựa trên khả năng phát hiện ra vấn đề cần giải quyết. Kỹ thuật này sinh ý tưởng kinh doanh này là gì?",
+    "answers": [
+      "A. Ý tưởng kinh doanh dựa trên vấn đề (Problem-based business ideas)",
+      "B. Tưởng tượng về tương lai (Imagine the future)",
+      "C. Ý tưởng kinh doanh dựa trên lợi ích (Benefit based business)",
+      "D. Trí tưởng tượng đảo ngược (Imagination reversed business)"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 31: Ông Peter Thiel là ai?",
+    "answers": [
+      "A. Nhà đầu tư đầu tiên của Google",
+      "B. Giám đốc điều hành của Google",
+      "C. Fouder của Facebook",
+      "D. Đồng sáng lập và Giám đốc điều hành của Paypal"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 32: Một cá nhân bắt đầu, thành lập và quản lý một doanh nghiệp mới gọi là: ",
+    "answers": [
+      "A. Một nhà lãnh đạo",
+      "B. Một doanh nhân",
+      "C. Một nhà quản lý",
+      "D. Một nhà chuyên môn"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 33: … là toàn bộ số tiền sẽ thu được do tiêu thụ sản phẩm/ hoặc cung cấp dịch vụ, hoạt động tài chính và các hoạt động khác của doanh nghiệp",
+    "answers": ["A. Giá bán", "B. Chi phí", "C. Lợi nhuận", "D. Doanh thu"],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 34: … là cách thức huy động và nguồn lực để hiện thực hóa ý tưởng kinh doanh",
+    "answers": [
+      "A. Khái niệm hóa cơ hội (Opportunity Conceptualization)",
+      "B. Gọi vốn (Fundraising)",
+      "C. Khởi nghiệp (Startup)",
+      "D. Xác thực ý tưởng (Idea validation)"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 35: Học xác thực (validated learning) là gì?",
+    "answers": [
+      "A. Học bằng cách hỏi người khác về chủ đề",
+      "B. Học từ trải nghiệm thực tế",
+      "C. Học bằng cách đọc nghiên cứu của người khác",
+      "D. Học từ một khóa học trực tuyến"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 36: Xác định cấu phần (bôi đỏ) trong mô hình kinh doanh Canvas (Business Model Canvas)",
+    "answers": [
+      "A. Các hoạt động chính",
+      "B. Các kênh phân phối",
+      "C. Các đối tác chính",
+      "D. Các mối quan hệ khách hàng"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 37: Bạn nên khảo sát (survey) ai để nhận phản hồi cho ý tưởng của mình?",
+    "answers": [
+      "A. Khách hàng tiềm năng và người trong ngành ",
+      "B. Khách hàng tiềm năng và bạn bè",
+      "C. Bạn bè và gia đình",
+      "D. Chỉ các chuyên gia trong ngành"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 38: Các doanh nhân có hoạt động kinh doanh phụ (Side business) có xu hướng tìm kiếm điều gì khi bắt đầu kinh doanh?",
+    "answers": [
+      "A. Rủi ro nhỏ",
+      "B. Thu thập bổ sung",
+      "C. Thời gian cam kết ít",
+      "D. Tất cả những điều trên"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 39: … là chỉ số thể hiện sự chênh lệch giữa doanh thu và các chi phí trong các hoạt động sản xuất kinh doanh",
+    "answers": ["A. Chi phí", "B. Lợi nhuận", "C. Doanh thu", "D. Giá bán"],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 40: Để trở thành một doanh nhân, bạn cần phải có những điều gì sau đây?",
+    "answers": [
+      "A. Doanh nhân cần có tài năng",
+      "B. Doanh nhân cần có nhiều tiền",
+      "C. Doanh nhân cần có sự may mắn",
+      "D. Doanh nhân không bắt buộc cần có tất cả những điều trên"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 41: Ý tưởng kinh doanh này sinh dựa trên việc chúng ta tưởng tượng những nhu cầu của mình trong tương lai, và sau đó chúng ta tưởng tượng chung chung những gì công ty lớn mới thành lập sẽ phục vụ những nhu cầu đó. Kỹ thuật này sinh ý tưởng kinh doanh này là gì?",
+    "answers": [
+      "A. Tưởng tượng về tương lai (Imagine the future)",
+      "B. Ý tưởng kinh doanh dựa trên vấn đề (Problem-based business ideas).",
+      "C. Trí tưởng tượng đảo ngược (Imagination reversed business)",
+      "D. Ý tưởng kinh doanh dựa trên lợi ích (Benefit based business)"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 42: Làm thế nào có thể cung cấp các sản phẩm tùy chỉnh hơn?",
+    "answers": [
+      "A. Làm thủ công với từng sản phẩm",
+      "B. Xây dựng một quy trình sản xuất có khả năng cung cấp các sản phẩm tùy chỉnh theo yêu cầu",
+      "C. Sản xuất hàng loạt",
+      "D. Tạo ra các hệ thống sản xuất hàng loạt"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 43: Các website hỗ trợ bạn làm bản khảo sát (survey) bao gồm?",
+    "answers": [
+      "A. SurverMonkey",
+      "B. Weber",
+      "C. Google Forms",
+      "D. Tất cả các phương án đều đúng"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 44: Kênh bán hàng số KHÔNG bao gồm: ",
+    "answers": [
+      "A. Trang thương mại điện tử",
+      "B. Ti vi",
+      "C. Ứng dụng mobile",
+      "D. Gian hàng tại website"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 45: Nội dung trình bày trong phần các mốc thành tựu (Milestones) của bản kế hoạch kinh doanh là:",
+    "answers": [
+      "A. Chiến lược kinh doanh trong tương lai",
+      "B. Sứ mệnh tầm nhìn của doanh nghiệp",
+      "C. Mục đích, mục tiêu, thành tựu đạt được trong quá khứ và hiện tại và dự kiến trong tương lai",
+      "D. Chiến lược kinh doanh đã thực hiện trong quá khứ và hiện tại"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 46: … là một báo cáo tài chính doanh nghiệp tổng hợp. Phản ánh tổng quát được toàn bộ tài sản hiện có cũng như nguồn vốn để hình thành các tài sản của doanh nghiệp tại một thời điểm nhất định.",
+    "answers": [
+      "A. Báo cáo kết quả bán hàng",
+      "B. Báo cáo tài chính (Financial statements)",
+      "C. Bảng cân đối kế toán (Balance sheet)",
+      "D. Báo cáo lưu chuyển tiền tệ (Cash flow statement)"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 47: Mô hình kinh doanh truyền thống bao gồm? Lựa chọn TẤT CẢ các phương án đúng (2)",
+    "answers": [
+      "A. Mô hình kinh doanh đại lý bán lẻ (retail business model)",
+      "B. Mô hình nhượng quyền thương mại (franchise business model)",
+      "C. Mô hình kinh doanh theo nhu cầu (On demand business model)",
+      "D. Mô hình kinh doanh nền kinh tế chia sẻ (sharing economy business model)"
+    ],
+    "correctAnswer": ["A", "B"]
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 48: Khả năng mở rộng (scalability) là gì?",
+    "answers": [
+      "A. Doanh nghiệp của bạn có thể PHÁT TRIỂN DỄ DÀNG như thế nào",
+      "B. Doanh nghiệp của bạn có thể PHÁT TRIỂN NHANH như thế nào",
+      "C. Doanh nghiệp của bạn sẽ TỒN TẠI TRÊN THỊ TRƯỜNG bao lâu",
+      "D. Làm thế nào để dễ dàng CÓ ĐƯỢC KHÁCH HÀNG"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 49: Công việc đầu tiên cần triển khai trong xây dựng đội ngũ quản lý là: ",
+    "answers": [
+      "A. Xác định chức danh nhân sự",
+      "B. Đào tạo",
+      "C. Tuyển dụng nhân viên",
+      "D. Đánh giá và tạo động lực nhân viên"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 50: Giá trị mà doanh nghiệp bạn cung cấp cho khách hàng trả lời các câu hỏi sau đây?",
+    "answers": [
+      "A. Lý do tại sao khách hàng của bạn trả tiền cho sản phẩm của bạn",
+      "B. Sản phẩm của bạn mang lại cho họ điều gì",
+      "C. Làm sao để đề xuất giá trị sản phẩm của doanh nghiệp nổi bật hơn của đối thủ cạnh tranh",
+      "D. Cả 3 phương án trên"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 51: Yếu tố quyết định sự khác nhau giữa thị trường “đại dương đỏ” và “đại dương xanh” là",
+    "answers": [
+      "A. Vị trí mở công ty",
+      "B. Nhà cung cấp",
+      "C. Khách hàng",
+      "D. Chi phí sản xuất"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 52: Các yếu tố cơ bản cần được xác định trước khi viết kế hoạch kinh doanh là gì? \nLựa chọn TẤT CẢ 3 phương án đúng.",
+    "answers": [
+      "A. Vị trí đặt công ty",
+      "B. Khách hàng mục tiêu",
+      "C. Loại hình pháp lý doanh nghiệp",
+      "D. Yếu tố sở hữu trí tuệ: bản quyền, bằng sáng chế, nhãn hiệu"
+    ],
+    "correctAnswer": ["B", "C", "D"]
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 53: Nguyên lý hoạt động của phương pháp này là:\n1. Bạn xây dựng một doanh nghiệp tinh gọn dựa trên một số giả tưởng về ý tưởng kinh doanh của bạn.\n2. Bạn đo lường phản ứng của khách hàng khi tiếp cận doanh nghiệp giả tưởng của bạn.\n3. Bạn lọc thông tin về những gì bạn làm sai.\n4. Bạn tiếp tục chỉnh sửa, xây dựng lại từ đầu mô hình doanh nghiệp tinh gọn của bạn, và tiếp tục thực hiện thử nghiệm.”\nPhương pháp để xác thực ý tưởng kinh doanh này được gọi là gì?",
+    "answers": [
+      "A. Khung khởi nghiệp tinh gọn (The lean startup framework)",
+      "B. Bản khảo sát (Survey)",
+      "C. Thử nghiệm giả tưởng (Pitch experiments)",
+      "D. Trao đổi với chuyên gia (Talking to experts)"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 54: Các hình thức vốn có thể huy động cho khởi nghiệp bao gồm? Lựa chọn TẤT CẢ các phương án đúng",
+    "answers": [
+      "A. Vốn riêng khởi nghiệp (Bootstrapping)",
+      "B. Vốn cổ phần (Equity)",
+      "C. Vốn đầu tư mạo hiểm (Venture capital)",
+      "D. Vốn vay (Loans)"
+    ],
+    "correctAnswer": ["A", "B", "C", "D"]
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 55: Khả năng thực thi là gì?",
+    "answers": [
+      "A. Bộ kỹ năng cụ thể bạn cần trong doanh nghiệp của mình",
+      "B. Khả năng đưa ra những ý tưởng tuyệt vời",
+      "C. Năng lực thay đổi thực thi ý tưởng kinh doanh của bạn",
+      "D. Tất cả các phương án đều sai"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 56: Trong phần chiến lược marketing và bán hàng (Sales & Marketing) của bản kế hoạch kinh doanh cần xác định rõ các nội dung , NGOẠI TRỪ:",
+    "answers": [
+      "A. Cấu trúc lực lượng bán hàng",
+      "B. Chính sách huy động viên khuyến khích lực lượng bán hàng",
+      "C. Kênh phân phối hỗ trợ bán hàng",
+      "D. Giấy chứng nhận hành nghề nhân viên bán hàng đối với một số sản phẩm/dịch vụ có điều kiện"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 57: … là chỉ số thể hiện sự chênh lệch giữa doanh thu và các chi phí trong hoạt động sản xuất kinh doanh.",
+    "answers": ["A. Lợi nhuận", "B. Giá bán", "C. Doanh thu", "D. Chi phí"],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 58: Một đặc điểm chung mà các doanh nhân thường có là:",
+    "answers": [
+      "A. Được miễn vào đại học",
+      "B. Tóc màu sáng",
+      "C. Rất lười biếng",
+      "D. Sự tự tin"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 59: Ký hiệu “FFF” là viết tắt của gì?",
+    "answers": [
+      "A. Gia đình, bạn bè và kẻ thù",
+      "B. Bạn bè, gia đình và những kẻ ngu ngốc",
+      "C. Bạn bè, người sáng lập và người kết nối",
+      "D. Khả thi, tập trung, nhanh chóng"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 60: Google Trends là gì?",
+    "answers": [
+      "A. Công cụ giúp người dùng phân tích đối thủ cạnh tranh chi tiết trên Google ở bất kỳ quốc gia, khu vực nào trong một…",
+      "B. Công cụ giúp người dùng nắm bắt các nội dung, từ khóa được tìm kiếm thịnh hành nhất trên Google ở bất kỳ quốc gia, khu vực nào",
+      "C. Công cụ giúp người dùng phát hiện spam trên trang web của mình một cách hiệu quả nhất trên Google ở bất kỳ quốc gia, khu vực nào",
+      "D. Tất cả các phương án trên đều đúng"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 61: Vì sao trong bản kế hoạch kinh doanh cần nên đánh giá các rủi ro trọng yếu?",
+    "answers": [
+      "A. Do nhà quản trị chỉ đạo",
+      "B. Giúp người đọc bản kế hoạch kinh doanh tin tưởng hơn vào tiềm năng thành công của công ty",
+      "C. Tùy theo quan điểm lập kế hoạch kinh doanh của mỗi người",
+      "D. Bản kế hoạch kinh doanh quy định bắt buộc có nội dung này"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 62: Dòng doanh thu từ mô hình doanh thu của doanh nghiệp KHÔNG bao gồm:",
+    "answers": [
+      "A. Quảng cáo truyền miệng",
+      "B. Cho thuê",
+      "C. Phí đăng ký dài hạn",
+      "D. Phí môi giới"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 63: Yếu tố nào sau đây cho phép các công ty nhỏ hoạt động như những công ty lớn? ",
+    "answers": [
+      "A. Phát triển kinh tế",
+      "B. Công nghệ",
+      "C. Cạnh tranh",
+      "D. Khách hàng"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 64: Điền vào chỗ trống: “Bản hoạch định … của 1 công ty là một kế hoạch về cách nó cạnh tranh, sử dụng các tài nguyên của nó. Cấu trúc các mối quan hệ, sự gắn bó với khách hàng để duy trì và tạo ra giá trị”",
+    "answers": [
+      "A. Mô hình hoạt động",
+      "B. Mô hình kinh doanh",
+      "C. Mô hình chiến thuật",
+      "D. Mô hình chiến lược"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 65: Quy trình nhận thức cơ hội kinh doanh (The process of opportunity recognition) bao gồm các bước là: \n1. Nhận thức cơ hội (Recognize opportunity)\n2. Khái niệm hóa(Conceptualization)\n3. Lập kế hoạch (Planning)\n4. Hiện thực hóa(Actual launch)\nQuy trình này là đúng hay sai?",
+    "answers": ["A. Đúng", "B. Sai"],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 66: Thành phần được xem là giá trị mà doanh nghiệp cung cấp là: ",
+    "answers": [
+      "A. Chi phí cơ hội",
+      "B. Quảng cáo",
+      "C. Sự thuận tiện",
+      "D. Cả 3 phương án trên"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 67: Một thỏa thuận kinh doanh trong đó một bên cho phép một bên khác sử dụng tên doanh nghiệp và bán các sản phẩm hoặc dịch vụ của mình được gọi là gì? ",
+    "answers": [
+      "A. Nhượng quyền thương mại",
+      "B. Doanh nghiệp tư nhân",
+      "C. Hợp tác xã",
+      "D. Công ty trách nhiệm hữu hạn"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 68: Tất cả hoạt động kinh doanh đều có bốn giai đoạn riêng biệt. Giai đoạn nào sau đây có thể xảy ra sự suy giảm?",
+    "answers": [
+      "A. Cạnh tranh (Startup)",
+      "B. Khởi động (Prelaunch)",
+      "C. Phát triển (Growth)",
+      "D. Trưởng thành (Maturity)"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 69: Loại đổi mới nào có thể giúp doanh nghiệp giảm những phức tạp không muốn?",
+    "answers": [
+      "A. Đổi mới sự tiện lợi",
+      "B. Đổi mới chất lượng",
+      "C. Đổi mới tốc độ",
+      "D. Đổi mới giá cả"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 70: Doanh nhân theo phong cách sống là gì?",
+    "answers": [
+      "A. Một người muốn có thu nhập cao và chỉ làm việc 40 giờ một tuần",
+      "B. Một người muốn khởi nghiệp liên quan đến lối sống lành mạnh",
+      "C. Một người nào đó đang tìm cách kiếm một số tiền nhất định để sống một lối sống cụ thể",
+      "D. Một doanh nhân đặt ra một công việc kinh doanh phụ để sống một lối sống cụ thể"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 71: Hoạt động nghiên cứu thị trường giúp doanh nghiệp",
+    "answers": [
+      "A. Xác định được đối tượng khách hàng mục tiêu",
+      "B. Mô tả được đặc điểm, hành vi của khách hàng",
+      "C. Cả A và B đều sai",
+      "D. Cả A và B đều đúng"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 72: Xác định cấu phần (bôi đỏ) trong mô hình kinh doanh Canvas (Business Model Canvas)",
+    "answers": [
+      "A. Các nguồn lực chính",
+      "B. Giá trị cung cấp",
+      "C. Các đối tác chính",
+      "D. Các mối quan hệ khách hàng"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 73: Xác định cấu phần (bôi đỏ) trong mô hình kinh doanh Canvas (Business Model Canvas)",
+    "answers": [
+      "A. Sơ đồ tổ chức",
+      "B. Giá trị cung cấp",
+      "C. Các kênh phân phối",
+      "D. Các hoạt động chính"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 74: Xác định cấu phần (bôi đỏ) trong mô hình kinh doanh Canvas (Business Model Canvas)",
+    "answers": [
+      "A. Chi phí",
+      "B. Các hoạt động chính",
+      "C. Các đối tác chính",
+      "D. Các mối quan hệ khách hàng"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 75: Đối với các Quỹ đầu tư mạo hiểm, việc đánh giá cơ hội nhận đầu tư của 2 doanh nghiệp sau như thế nào?\n1. Doanh nghiệp X có 90% cơ hội thu về doanh thu gấp 2 lần vốn bỏ ra.\n2. Doanh nghiệp Y có 10% cơ hội thu về doanh thu gấp 20 lần vốn bỏ ra.",
+    "answers": [
+      "A. Cơ hội nhận được đầu tư của doanh nghiệp X cao hơn doanh nghiệp Y",
+      "B. Cơ hội nhận được đầu tư của doanh nghiệp Y cao hơn doanh nghiệp X",
+      "C. Cơ hội nhận được đầu tư của 2 doanh nghiệp X và Y ngang nhau",
+      "D. Không có câu trả lời đúng"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 76: “MVP” có nghĩa là gì?",
+    "answers": [
+      "A. Phiên bản khả thi tối thiểu của sản phẩm mà bạn có thể dùng để thử nghiệm với khách hàng.",
+      "B. Tiêu chí tối thiểu để thành công",
+      "C. Số tiền cần chi tối thiểu bạn có thể bán được từ 1 sản phẩm",
+      "D. Số lượng khách hàng tối thiểu bạn cần để duy trì hoạt động kinh doanh của mình"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 77: Xác định cấu phần (bôi đỏ) trong mô hình kinh doanh Canvas (Business Model Canvas)",
+    "answers": [
+      "A. Các hoạt động chính",
+      "B. Các nguồn lực chính",
+      "C. Các kênh phân phối",
+      "D. Giá trị cung cấp"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 78: Xác định cấu phần (bôi đỏ) trong mô hình kinh doanh Canvas (Business Model Canvas)",
+    "answers": [
+      "A. Chi phí",
+      "B. Các đối tác chính",
+      "C. Các kênh phân phối",
+      "D. Dòng doanh thu"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 79: Bạn sử dụng dịch vụ “Theo yêu cầu” (On demand service) như thế nào?",
+    "answers": [
+      "A. Bạn gọi điện đến công ty và yêu cầu sản phẩm bạn cần",
+      "B. Bạn hoàn thành biểu mẫu và nhận mẫu miễn phí",
+      "C. Bạn đến quán và yêu cầu được phục vụ ngay lập tức",
+      "D. Bạn sử dụng 1 ứng dụng di động để đặt hàng những gì bạn cần ngay bây giờ"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 80: Cách tốt nhất để tiếp cận các nhà đầu tư thiên thần (Angels) là gì?",
+    "answers": [
+      "A. Viết cho họ một email nói lý do tại sao ý tưởng của bạn là tuyệt vời",
+      "B. Nói với họ rằng bạn đang tìm kiếm lời khuyên của người cố vấn quản lý",
+      "C. Gặp họ trực tiếp và phàn nàn về tình hình tài chính của bạn",
+      "D. Gọi cho họ và yêu cầu trả trước tiền"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 81: Mô hình kinh doanh mới, đột phá bao gồm? Lựa chọn TẤT CẢ các phương án đúng (3)",
+    "answers": [
+      "A. Mô hình kinh doanh nền kinh tế chia sẻ (sharing economy business model)",
+      "B. Mô hình kinh doanh đại lý bán lẻ (retail business model)",
+      "C. Mô hình kinh doanh theo nhu cầu (demand business model)",
+      "D. Mô hình kinh doanh dịch vụ cộng đồng (crowdsourcing business model)"
+    ],
+    "correctAnswer": ["A", "C", "D"]
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 82: Các nguồn hình thành nên mô hình doanh thu bao gồm? Lựa chọn TẤT CẢ các phương án đúng (3)",
+    "answers": [
+      "A. Đăng ký",
+      "B. Quảng cáo truyền miệng",
+      "C. Cho thuê",
+      "D. Cấp phép"
+    ],
+    "correctAnswer": ["A", "C", "D"]
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 83: Chìa khóa giúp các ngành công nghiệp cung cấp sản phẩm/dịch vụ tăng hiệu suất hơn là?",
+    "answers": [
+      "A. Tăng trưởng thị trường",
+      "B. Mối quan hệ chiến lược",
+      "C. Con người",
+      "D. Khoa học, công nghệ"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 84: Niềm đam mê có thể giúp bạn như thế nào trong công việc kinh doanh?",
+    "answers": [
+      "A. Bạn làm tốt tất cả các công việc liên quan đến đam mê của bạn",
+      "B. Bạn có thể bán sản phẩm của mình dễ dàng hơn",
+      "C. Bạn không quan tâm",
+      "D. Bạn có thể dành nhiều thời gian hơn để làm việc mà không cảm thấy nhàm chán"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 85: Loại hình doanh nhân này thường thấy trên tin tức báo chí, và công việc kinh doanh của họ phát triển nhanh chóng. Doanh nhân này thuộc hình thức nào sau đây?",
+    "answers": [
+      "A. Doanh nhân khởi nghiệp",
+      "B. Doanh nhân phụ",
+      "C. Doanh nhân có phong cách sống",
+      "D. Doanh nhân xã hội"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 86: Rủi ro trong kinh doanh đến từ kinh tế vĩ mô. NGOẠI TRỪ:",
+    "answers": [
+      "A. Sự suy thoái nền kinh tế",
+      "B. Sự thay đổi thể chế chính trị",
+      "C. Thảm họa, hỏa hoạn tại trụ sở doanh nghiệp",
+      "D. Thảm họa thiên tai, dịch bệnh"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 87: … là các yếu tố làm ngăn cản các đối thủ cạnh tranh tiềm tàng tham gia vào thị trường và cạnh tranh với công ty của bạn.",
+    "answers": [
+      "A. Rào cản gia nhập ngành",
+      "B. Chi phí đầu tư",
+      "C. Hiệu ứng nền kinh tế",
+      "D. Khách hàng và thị trường"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 88: Nhóm người nào sau đây có thể cần kế hoạch kinh doanh",
+    "answers": [
+      "A. Ngân hàng",
+      "B. Các nhà đầu tư",
+      "C. Cố vấn",
+      "D. Tất cả các ý trên"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 89: Chức năng của kênh phân phối bao gồm? \nLựa chọn TẤT CẢ các phương án đúng",
+    "answers": [
+      "A. Giúp xây dựng nhận biết về dịch vụ hay sản phẩm",
+      "B. Tạo điều kiện để khách hàng mua hàng",
+      "C. Đảm bảo sự hài lòng của khách hàng sau khi mua hàng thông qua những hỗ trợ",
+      "D. Tạo mối quan hệ với các đối tác"
+    ],
+    "correctAnswer": ["A", "B", "C", "D"]
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 90: Các cách thức khác biệt để xây dựng, vận hành Mô hình doanh thu cho doanh nghiệp là gì? \nLựa chọn TẤT CẢ các phương án đúng",
+    "answers": [
+      "A. Mô hình doanh thu dựa trên phí đăng ký trọn đời (offering a lifetime subscription)",
+      "B. Doanh thu dựa trên số hàng bán ra",
+      "C. Mô hình Freemium (Đa số sử dụng dịch vụ thử nghiệm miễn phí và chỉ trả phí khi phát sinh nhu cầu cao cấp)",
+      "D. Micro Payments (Chỉ trả 1 khoản phí rất nhỏ cho 1 phần rất nhỏ của dịch vụ hoặc để hướng tới 1 lợi ích rất nhỏ được doanh nghiệp/cộng đồng do doanh nghiệp xây dựng cung cấp)"
+    ],
+    "correctAnswer": ["A", "B", "C", "D"]
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 91: Đâu thường KHÔNG PHẢI là đặc điểm chung của doanh nhân?",
+    "answers": [
+      "A. Cẩn trọng (Careful)",
+      "B. Lo xa (Forward thinking)",
+      "C. Tự tin (Confidence)",
+      "D. Giao tiếp xã hội tốt (Gregarious)"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "imageUrl": "",
+    "question": "Câu 92: Khi bạn sử dụng mô hình kinh doanh truyền thống (“brick and mortar” business model), điều đó có nghĩa là gì?",
+    "answers": [
+      "A. Doanh nghiệp của bạn được thiết kế để phát triển chậm nhưng đều đặn",
+      "B. Bạn sở hữu 1 công ty làm công việc xây dựng",
+      "C. Bạn có một cửa hàng thực và cả cửa hàng trực tuyến để bán sản phẩm của mình",
+      "D. Bạn chỉ bán sản phẩm của mình trong 1 cửa hàng thực tế"
+    ],
+    "correctAnswer": "D"
+  }
+]

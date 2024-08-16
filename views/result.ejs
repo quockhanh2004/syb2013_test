@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kết quả bài tập</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    body {
+      padding: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Kết quả bài tập</h1>
+
+    <h2>Điểm số: <%= score %>
+    </h2>
+
+    <% if (incorrectAnswers.length> 0) { %>
+      <h3>Bạn trả lời sai <%= incorrectAnswers.length %> câu </h3><br>
+      <h3>Các câu trả lời sai:</h3> 
+      <ul>
+        <% incorrectAnswers.forEach(item=> { %>
+          <li>
+            <strong>
+              <%= item.question %>
+            </strong><br>
+            <span style="color: lime;">Đáp án đúng: <%= item.correctAnswer %></span><br>
+            <span style="color: red;">Đáp án của bạn: <%= item.userAnswer %>
+            </span> <br> <br>
+          </li>
+          <% }); %>
+      </ul>
+      <% } else { %>
+        <p>Chúc mừng bạn đã trả lời đúng hết các câu hỏi!</p>
+        <% } %>
+  </div>
+</body>
+
+</html>
