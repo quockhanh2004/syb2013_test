@@ -36,7 +36,7 @@ app.post("/submit", (req, res) => {
 
         userAnswer.forEach((answer) => {
           if (correctAnswers.includes(answer)) {
-            miniScore += 10 / total / correctAnswers.length;
+            miniScore += 1 / correctAnswers.length;
           }
         });
 
