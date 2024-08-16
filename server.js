@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
 
 // Route xử lý kết quả bài tập
 app.post("/submit", (req, res) => {
-  let score = 0;
+  let score = 10; // Bắt đầu với 10 điểm
   let total = questions.length;
   let incorrectAnswers = [];
   const userAnswers = req.body;
@@ -27,34 +27,35 @@ app.post("/submit", (req, res) => {
   // So sánh đáp án của người dùng với đáp án đúng
   for (let i = 0; i < total; i++) {
     const userAnswer = userAnswers[`question${i + 1}`];
+    const questionScore = 10 / total; // Điểm trừ cho mỗi câu hỏi sai
 
     if (userAnswer) {
       if (Array.isArray(questions[i].correctAnswer)) {
         // Câu hỏi nhiều đáp án
-        let miniScore = 0;
+        let isCompletelyCorrect = true; // Giả sử ban đầu trả lời đúng hết
         const correctAnswers = questions[i].correctAnswer;
 
         userAnswer.forEach((answer) => {
-          if (correctAnswers.includes(answer)) {
-            miniScore += 1 / correctAnswers.length;
+          if (!correctAnswers.includes(answer)) {
+            // Nếu có đáp án sai
+            isCompletelyCorrect = false;
+            score -= questionScore / correctAnswers.length;
           }
         });
 
-        score += miniScore;
-
         // Kiểm tra xem user có chọn thiếu đáp án đúng hay không
-        if (miniScore < 10 / total) {
+        if (!isCompletelyCorrect || userAnswer.length !== correctAnswers.length) { 
           incorrectAnswers.push({
             question: questions[i].question,
             correctAnswer: correctAnswers.join(", "),
             userAnswer: userAnswer.join(", "),
           });
         }
+
       } else {
         // Câu hỏi một đáp án
-        if (userAnswer === questions[i].correctAnswer) {
-          score++;
-        } else {
+        if (userAnswer !== questions[i].correctAnswer) {
+          score -= questionScore; 
           incorrectAnswers.push({
             question: questions[i].question,
             correctAnswer: questions[i].correctAnswer,
@@ -64,6 +65,7 @@ app.post("/submit", (req, res) => {
       }
     } else {
       // Câu hỏi chưa được trả lời
+      score -= questionScore;
       incorrectAnswers.push({
         question: questions[i].question,
         correctAnswer: Array.isArray(questions[i].correctAnswer)
@@ -74,7 +76,7 @@ app.post("/submit", (req, res) => {
     }
   }
 
-  let finalScore = (score / total) * 10;
+  let finalScore = score; 
   finalScore = Math.round(finalScore * 100) / 100;
 
   console.log("Điểm: " + finalScore);
@@ -86,5 +88,5 @@ app.post("/submit", (req, res) => {
 });
 
 // Khởi động server
-const PORT = process.env.PORT || 2013;
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`http://localhost:${PORT}`));
