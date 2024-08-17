@@ -20,6 +20,11 @@
           <% for (let j = i; j < i + 3 && j < questions.length; j++) { %>
             <div class="question mb-4">
               <p class="font-weight-bold"><%= questions[j].question %></p>
+
+              <% if (questions[j].imageUrl) { %>
+                <img src="<%= questions[j].imageUrl %>" class="img-fluid" alt="Hình ảnh minh họa"> 
+              <% } %>
+
               <% if (questions[j].correctAnswer.length > 1) { %> 
                 <% questions[j].answers.forEach((answer, k) => { %>
                   <div class="form-check">
